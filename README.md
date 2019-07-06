@@ -1,4 +1,4 @@
-# Bike Generator GUI
+# ExercycleGUI
 
 ## Install Dependencies
 0. Python 3.5.x or Up
